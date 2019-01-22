@@ -1,5 +1,7 @@
 # SixArm → Node → Express → Tot
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/SixArm/sixarm_node_express_tot.svg)](https://greenkeeper.io/)
+
 A Node Express web service to score how many times the service is called.
 
 
